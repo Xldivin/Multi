@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "376887090985",
+    "project_id": "multitool-86a76",
+    "storage_bucket": "multitool-86a76.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:376887090985:android:9b441cacd00794992be138",
+        "android_client_info": {
+          "package_name": "com.multitool"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJrUEgbucZZi4txsPcPx9FuvdP1nYk1Cg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
